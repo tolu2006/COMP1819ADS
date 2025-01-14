@@ -9,6 +9,14 @@ This demo is for Lab 01 - Ex1 MinMax function
 def minmax(sequence):
     min = max = sequence[0] # assuming no-empty
     # PUT YOUR CODE HERE
+    num1 = userinput ('enter first number
+    num2 ('enter second number')
+    num3 ('enter third number')
+     if num 1 > num2 and num3 
+          print ('num1 is the largest number')
+    if num 2 > num1 and num3
+         print ('num2 is the largest number')
+        else print (' num3 is the largest number')              
     return (min,max)
 
 # HOW TO TEST WITH DIFFERENT INPUTS
